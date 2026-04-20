@@ -126,4 +126,4 @@ enterprise-training/
 
 ## 许可证
 
-本项目仅供学习和研究使用。
+[MIT](./LICENSE)
